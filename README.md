@@ -14,7 +14,7 @@
 - Skills demonstrated: Risk Assessment, Threat Modeling, Policy Awareness, Incident Response
 
 ## 📄 Full Report
-👉 [Download the Case Study PDF](./report/Vishing_MobileMoney_Fraud_CaseStudy_with_user_education.pdf)
+👉 [Download the Case Study PDF](./report/Bernard%20Arthur%20Case%20Study%20Report.pdf))
 
 ## 🎯 Skills Demonstrated
 - CompTIA Security+, Azure, Google & IBM Security certified approach
