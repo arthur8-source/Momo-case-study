@@ -1,34 +1,72 @@
 # Momo-case-study
 
-# Vishing-Based Mobile Money Fraud Case Study (Ghana)
+#  Vishing-Based Mobile Money Fraud in Ghana  
+**A Cybersecurity Case Study by Bernard Arthur**
 
-📌 **Focus**: Investigating how voice phishing (vishing), insider leaks, and weak fraud recovery mechanisms are exploited by attackers targeting MTN Mobile Money users in Ghana.
+---
 
-## 🔍 Project Highlights
+##  Overview
 
-- Real-world attack scenario with victim persona
-- Threat modeling and timeline of attack execution
-- Insider threat analysis (vendors & telco staff)
-- Cybersecurity heatmap + maturity table
-- Countermeasures including user education & regulatory compliance
-- Skills demonstrated: Risk Assessment, Threat Modeling, Policy Awareness, Incident Response
+This project presents a cybersecurity case study focused on vishing (voice phishing) attacks targeting **MTN Mobile Money (MoMo)** users in Ghana. It highlights how fraudsters use **social engineering**, **SIM swaps**, and insider collusion to manipulate victims and steal funds, and it proposes actionable solutions aligned with national regulations.
 
-## 📄 Full Report
-👉 [Download the Case Study PDF](./Bernard%20Arthur%20Case%20Study%20Report.pdf)
+---
 
-## 🎯 Skills Demonstrated
-- CompTIA Security+, Azure, Google & IBM Security certified approach
-- Community-focused cybersecurity strategy
-- Regulatory mapping (Data Protection Act, NCA, BoG directives)
-- Realistic visuals and campaign concepts for user education
+## 📄 Case Study Report
 
+You can view or download the full PDF here:
 
+**[👉 View Bernard Arthur Case Study Report (PDF)](./Bernard%20Arthur%20Case%20Study%20Report.pdf)**
 
-## 📚 Appendix
-- [Regulatory Summary Table (Word)](./appendix/regulatory_framework_summary_table.docx)
+---
 
-## 🧠 Author
+## 🔍 Key Topics Covered
+
+-   **Vishing & Social Engineering Tactics**  
+-   **Insider Threats** (MoMo vendors & telco staff collusion)  
+-   **Fraud Heatmap & Data Table**  
+-   **Regulatory Compliance Overview**  
+-   **Countermeasures: User Education, Monitoring, Legal Reform**  
+-   **Behavioral Exploits & Community Risk**
+
+---
+
+## 🛠️ Skills Demonstrated
+
+-   Cybersecurity Threat Analysis  
+-   Social Engineering Investigation  
+-   Incident Response Planning  
+-   Regulatory Compliance Mapping  
+-   User Awareness Strategy  
+-   Report Writing & Communication
+
+--
+
+## ⚖️ Regulatory Framework
+
+The case study aligns with several Ghanaian laws and directives, including:
+
+- **Data Protection Act, 2012 (Act 843)**
+- **Electronic Transactions Act, 2008 (Act 772)**
+- **BoG Cybersecurity Directive (2023)**
+- **NCA SIM Registration Regulations**
+- **Payment Systems and Services Act, 2019 (Act 987)**
+
+---
+
+## 💡 Why This Matters
+
+This case study demonstrates a practical and human-centered approach to cybersecurity — showing how technical threats intersect with social behavior and how national policy can help drive systemic protection in digital finance.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or feedback:
+
 **Bernard Arthur**  
-📍 Ghana | ✉️ Bernnardarthur@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/johndoe-cybersecurity)
+Email: [bernnardarthur@gmail.com]  
+GitHub: [github.com/your-username]  
+LinkedIn: [linkedin.com/in/your-profile]
+
+---
 
