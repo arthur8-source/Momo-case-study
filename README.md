@@ -15,7 +15,8 @@ This project presents a cybersecurity case study focused on vishing (voice phish
 
 You can view or download the full PDF here:
 
-**[👉 View Bernard Arthur Case Study Report (PDF)](./Bernard%20Arthur%20Case%20Study%20Report.pdf)**
+**[👉 View Bernard Arthur Case Study Report (PDF)](./Bernard%20Arthur%20Case%20Study%20Report.pdf)
+
 
 ---
 
