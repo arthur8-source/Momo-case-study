@@ -66,8 +66,7 @@ Feel free to reach out for collaboration or feedback:
 
 **Bernard Arthur**  
 Email: [bernnardarthur@gmail.com]  
-GitHub: [github.com/your-username]  
-LinkedIn: [linkedin.com/in/your-profile]
+GitHub: [https://github.com/arthur8-source]  
 
 ---
 
